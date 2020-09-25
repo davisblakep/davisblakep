@@ -1,6 +1,6 @@
 ### Welcome
 
-<img src="https://images.pexels.com/photos/409701/pexels-photo-409701.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=600&w=245"/>
+<img src="https://images.pexels.com/photos/409701/pexels-photo-409701.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=600&w=247"/>
 
 <!--
 **davisblakep/davisblakep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
