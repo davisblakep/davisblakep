@@ -8,8 +8,10 @@ alert(‘Hello Markdown’);
 ```
 -->
 
-
-
+<!--
+Personal deployed link:
+https://readme-stats-lemon.vercel.app/
+-->
 <!--
 <div height="50">
 <p align="center">
@@ -42,7 +44,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
+Attempting my own deployed link
 ![Blakes's github stats](https://vercel.com/davisblakep/readme-stats/mpbdiwl8n/api?username=davisblakep&count_private=true&show_icons=true&include_all_commits&theme=cobalt)
+-->
+
+![Blake's github stats](https://github-readme-stats.vercel.app/api?username=davisblakep&count_private=true&show_icons=true&include_all_commits&theme=cobalt)
+
 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=davisblakep&theme=cobalt&repo=backend-auth-practice)](https://github.com/davisblakep/backend-auth-practice)
