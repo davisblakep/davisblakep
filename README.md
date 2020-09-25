@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ![Blakes's github stats](https://github-readme-stats.vercel.app/api?username=davisblakep&count_private=true&show_icons=true&include_all_commits&theme=cobalt)
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=davisblakep&theme=dark&repo=backend-auth-practice)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=davisblakep&theme=cobalt&repo=backend-auth-practice)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davisblakep&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
