@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Blakes's github stats](https://github-readme-stats.vercel.app/api?username=davisblakep&count_private=true&show_icons=true&theme=onedark)
+![Blakes's github stats](https://github-readme-stats.vercel.app/api?username=davisblakep&count_private=true&show_icons=true&theme=cobalt)
 
 
