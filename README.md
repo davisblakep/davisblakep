@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Blakes's github stats](https://readme-stats-lemon.vercel.app
+![Blakes's github stats](https://vercel.com/davisblakep/readme-stats/mpbdiwl8n.app
 /api?username=davisblakep&count_private=true&show_icons=true&include_all_commits&theme=cobalt)
 
 
