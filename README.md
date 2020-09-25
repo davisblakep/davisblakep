@@ -1,14 +1,14 @@
 ### Blake Davis
 
-
+<!--
 ```javascript
 function alertMarkdown(){
 alert(‘Hello Markdown’);
 }
 ```
+-->
 
-
-<img src="https://images.pexels.com/photos/1434580/pexels-photo-1434580.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=600&w=247"/>
+<img align=”center” src="https://images.pexels.com/photos/1434580/pexels-photo-1434580.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=600&w=247"/>
 
 <!--
 <img src="https://images.pexels.com/photos/409701/pexels-photo-409701.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=600&w=247"/>
