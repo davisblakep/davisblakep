@@ -8,7 +8,9 @@ alert(‘Hello Markdown’);
 ```
 -->
 
-
+<p align="center">
+  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+</p>
   
 <img src="https://images.pexels.com/photos/1434580/pexels-photo-1434580.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=600&w=247"/>
 
