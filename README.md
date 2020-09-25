@@ -1,7 +1,7 @@
 ### Blake Davis
 
 
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
+
 
 
 <img src="https://images.pexels.com/photos/1434580/pexels-photo-1434580.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=600&w=247"/>
