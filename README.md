@@ -24,4 +24,7 @@ Here are some ideas to get you started:
 
 ![Blakes's github stats](https://github-readme-stats.vercel.app/api?username=davisblakep&count_private=true&show_icons=true&theme=cobalt)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davisblakep)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
