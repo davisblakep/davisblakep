@@ -1,4 +1,4 @@
-### Blake Davis
+# Blake Davis
 
 <!--
 ```javascript
