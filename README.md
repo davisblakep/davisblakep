@@ -8,6 +8,13 @@ alert(‘Hello Markdown’);
 ```
 -->
 
+<style>
+.pclass{
+background-color: yellow;
+color: blue;
+}
+
+
 <p align=”center”>
   
 <img src="https://images.pexels.com/photos/1434580/pexels-photo-1434580.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=600&w=247"/>
@@ -43,6 +50,6 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davisblakep&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+</style>
 
 
