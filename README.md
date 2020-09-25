@@ -8,6 +8,8 @@ alert(‘Hello Markdown’);
 ```
 -->
 
+
+
 <!--
 <div height="50">
 <p align="center">
@@ -40,8 +42,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Blakes's github stats](https://vercel.com/davisblakep/readme-stats/mpbdiwl8n.app
-/api?username=davisblakep&count_private=true&show_icons=true&include_all_commits&theme=cobalt)
+![Blakes's github stats](https://vercel.com/davisblakep/readme-stats/mpbdiwl8n/api?username=davisblakep&count_private=true&show_icons=true&include_all_commits&theme=cobalt)
 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=davisblakep&theme=cobalt&repo=backend-auth-practice)](https://github.com/davisblakep/backend-auth-practice)
