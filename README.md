@@ -8,8 +8,9 @@ alert(‘Hello Markdown’);
 ```
 -->
 
-<img align=”center” src="https://images.pexels.com/photos/1434580/pexels-photo-1434580.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=600&w=247"/>
-
+<p align=”center”>
+<img src="https://images.pexels.com/photos/1434580/pexels-photo-1434580.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=600&w=247"/>
+< /p>
 <!--
 <img src="https://images.pexels.com/photos/409701/pexels-photo-409701.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=600&w=247"/>
 -->
