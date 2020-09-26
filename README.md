@@ -65,7 +65,7 @@ Attempting my own deployed link
 
 *Arctic Code Vault Contributor*
 
-#### Code involved in this program is buried 250 meters deep in the Arctic Circle on film that is designed to exist for at least 1,000 years.
+##### Code involved in this program is buried 250 meters deep in the Arctic Circle on film that is designed to exist for at least 1,000 years.
 
 https://archiveprogram.github.com
 
