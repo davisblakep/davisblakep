@@ -124,7 +124,7 @@ https://www.notion.so/Parallax-CSS-525d7906b8094b74ac68e1ed1247576f
 
 ## Deployed Sites
 
-ChefHub:
+*ChefHub:
 https://elastic-curie-dc6000.netlify.com
 
 VR Direct:
@@ -135,6 +135,8 @@ https://essentialismproject.vercel.app
 
 Expat Journal API:
 https://expat-api.herokuapp.com
+
+*Code currently buried in the arctics
 
 <br/>
 <br/>
