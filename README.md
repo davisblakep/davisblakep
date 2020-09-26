@@ -86,7 +86,7 @@ https://www.notion.so/ReactJS-Dependencies-85a499cd99e4426cafa31b8583b19a82
 NodeJS Backend Dependcencies:
 https://www.notion.so/Backend-Dependencies-38f9fd9ca0484ca98052c43714c45f08
 
-axiosWithAuth:
+axiosWithAuth.js:
 https://www.notion.so/axiosWithAuth-js-4ef55dff65144bbd916e2adff9203e3a
 
 PrivateRoute.js:
