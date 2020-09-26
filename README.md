@@ -151,9 +151,9 @@ https://onlinelibrary.wiley.com/doi/full/10.1111/eea.12852
 
 #### Repo Highlights:
 
-New Frontend React.JS boilerplates w/ Private Routing using JSON Web Tokens, REDUX and included middleware, Material-UI components, authentication login and registration forms, and a sample Parallax CSS config.
+New Frontend React.JS boilerplate w/ Private Routing using JSON Web Tokens, REDUX and included middleware, Material-UI components, authentication login and registration forms, and a sample Parallax CSS config.
 
-New Backend Node.JS, ExpressJS, Knex, PostgreSQL boilerplates w/ Morgan Express Endpoint Logging, JWT Authentication, Knex.JS Database Table Migration. SQLite3   `development` database, PostgreSQL `production` database management, JEST testing, and a route to include an HTML graphical homepage for the API homepage.
+New Backend Node.JS, ExpressJS, Knex, PostgreSQL boilerplate w/ Morgan Express Endpoint Logging, JWT Authentication, Knex.JS Database Table Migration. SQLite3   `development` database, PostgreSQL `production` database management, JEST testing, and a route to include an HTML graphical homepage for the API homepage.
 
 #### Github Readme.md:
 
