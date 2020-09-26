@@ -101,7 +101,7 @@ https://www.notion.so/Parallax-CSS-525d7906b8094b74ac68e1ed1247576f
 
 ## Coming Soon
 
-####Repo highlights:
+#### Repo highlights:
 
 New Frontend React.JS boilerplates w/ Private Routing using JSON Web Tokens, REDUX and included middleware, Material-UI components, authentication login and registration forms, and a sample Parallax CSS config.
 
@@ -109,12 +109,12 @@ New Backend Node.JS, ExpressJS, Knex, PostgreSQL boilerplates w/ Morgan Express 
 
 <br/>
 
-####Github Readme.md:
+#### Github Readme.md:
 
 Deployment of stats to reduce endpoint calls, additional statistics, *pending* Youtube Playlist, summary & introduction, additional markdown formatting, more cool random information.
 
 <br/>
 
-####Portfolio:
+#### Portfolio:
 
 Just acquired a new domain with SSL certs. Full remake of portfolio *pending*. Will include full stack.
