@@ -149,7 +149,7 @@ https://onlinelibrary.wiley.com/doi/full/10.1111/eea.12852
 
 ## Coming Soon
 
-#### Repo highlights:
+#### Repo Highlights:
 
 New Frontend React.JS boilerplates w/ Private Routing using JSON Web Tokens, REDUX and included middleware, Material-UI components, authentication login and registration forms, and a sample Parallax CSS config.
 
