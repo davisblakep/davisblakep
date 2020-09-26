@@ -85,12 +85,13 @@ New Frontend React.JS boilerplates w/ Private Routing using JSON Web Tokens, RED
 
 New Backend Node.JS, ExpressJS, Knex, PostgreSQL boilerplates w/ Morgan Express Endpoint Logging, JWT Authentication, Knex.JS Database Table Migration. SQLite3   `development` database, PostgreSQL `production` database management, JEST testing, and a route to include an HTML graphical homepage for the API homepage.
 
+<br/>
 
 `Github Readme.md:`
 
 Deployment of stats to reduce endpoint calls, additional statistics, *pending* Youtube Playlist, summary and introduction.
 
-
+<br/>
 
 `Portfolio:`
 
