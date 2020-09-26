@@ -138,7 +138,7 @@ https://expat-api.herokuapp.com
 
 <br/>
 
-*Code currently buried in the arctics*
+**Code currently buried in the arctics*
 
 <br/>
 <br/>
