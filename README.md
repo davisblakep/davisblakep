@@ -101,6 +101,23 @@ https://www.notion.so/Parallax-CSS-525d7906b8094b74ac68e1ed1247576f
 <br/>
 <br/>
 
+## Deployed Sites
+
+ChefHub:
+https://elastic-curie-dc6000.netlify.com
+
+VR Direct:
+https://vr-direct.now.sh
+
+Essentialism:
+https://essentialismproject.vercel.app
+
+Expat Journal API:
+https://expat-api.herokuapp.com
+
+<br/>
+<br/>
+
 ## Coming Soon
 
 #### Repo highlights:
