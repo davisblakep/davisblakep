@@ -70,7 +70,7 @@ Attempting my own deployed link
 
 
 ## Coming Soon
-`Repo highlights will include:`
+`Repo highlights:`
 
 New Frontend React.JS boilerplates w/ Private Routing using JSON Web Tokens, REDUX and included middleware, Material-UI components, authentication login and registration forms, and a sample Parallax CSS config.
 
