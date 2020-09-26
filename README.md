@@ -136,7 +136,9 @@ https://essentialismproject.vercel.app
 Expat Journal API:
 https://expat-api.herokuapp.com
 
-*Code currently buried in the arctics
+<br/>
+
+*Code currently buried in the arctics*
 
 <br/>
 <br/>
