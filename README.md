@@ -88,3 +88,7 @@ New Backend Node.JS, ExpressJS, Knex, PostgreSQL boilerplates w/ Morgan Express 
 `Github Readme.md:`
 
 Deployment of stats to reduce endpoint calls, additional statistics, *pending* Youtube Playlist, summary and introduction.
+
+
+`Portfolio:`
+Just acquired a new domain with SSL certs. Full remake of portfolio in `progress`.
