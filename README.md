@@ -78,6 +78,16 @@ Attempting my own deployed link
 <br/>
 <br/>
 
+## Public Notion Docs
+
+ReactJS Frontend Dependencies:
+https://www.notion.so/ReactJS-Dependencies-85a499cd99e4426cafa31b8583b19a82
+
+
+
+<br/>
+<br/>
+
 ## Coming Soon
 `Repo highlights:`
 
