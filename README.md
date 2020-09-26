@@ -68,8 +68,8 @@ Attempting my own deployed link
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davisblakep&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
-<br/>
+
+
 
 ### Repo Highlights:
 
