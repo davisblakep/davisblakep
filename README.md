@@ -75,6 +75,8 @@ Attempting my own deployed link
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=davisblakep&theme=cobalt&repo=backend-auth-practice)](https://github.com/davisblakep/backend-auth-practice)
 
+<br/>
+<br/>
 
 ## Coming Soon
 `Repo highlights:`
