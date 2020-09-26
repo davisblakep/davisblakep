@@ -92,4 +92,4 @@ Deployment of stats to reduce endpoint calls, additional statistics, *pending* Y
 
 `Portfolio:`
 
-Just acquired a new domain with SSL certs. Full remake of portfolio in `progress`.
+Just acquired a new domain with SSL certs. Full remake of portfolio *pending*`.
