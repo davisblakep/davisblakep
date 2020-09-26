@@ -72,4 +72,4 @@ Attempting my own deployed link
 
 New Frontend React.JS boilerplates w/ Private Routing using JSON Web Tokens, REDUX and included middleware, Material-UI components, authentication login and registration forms, and a sample Parallax CSS config.
 
-New Backend Node.JS, ExpressJS, Knex, PostgreSQL boilerplates w/ Morgan Express for Endpoint Logging, JWT for Authentication, Knex.JS for Database Table Migration. PostgreSQL for database management, JEST for testing, and a route to include an HTML graphical homepage for your API homepage.
+New Backend Node.JS, ExpressJS, Knex, PostgreSQL boilerplates w/ Morgan Express Endpoint Logging, JWT Authentication, Knex.JS Database Table Migration. PostgreSQL database management, JEST testing, and a route to include an HTML graphical homepage for the API homepage.
