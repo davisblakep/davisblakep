@@ -55,7 +55,7 @@ Attempting my own deployed link
 ![Blakes's github stats](https://vercel.com/davisblakep/readme-stats/mpbdiwl8n/api?username=davisblakep&count_private=true&show_icons=true&include_all_commits&theme=cobalt)
 -->
 
-<br/>
+
 <br/>
 
 
