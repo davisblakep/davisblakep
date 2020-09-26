@@ -29,7 +29,6 @@ https://readme-stats-lemon.vercel.app/
 <img src="https://images.pexels.com/photos/409701/pexels-photo-409701.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=600&w=247"/>
 -->
 
-<img src="https://player.vimeo.com/external/389300396.sd.mp4?s=dcb779e950cf488db4de3167e1fbe1743c7ae25d&profile_id=139&oauth2_token_id=57447761"/>
 
 <!--
 **davisblakep/davisblakep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
