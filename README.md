@@ -118,6 +118,14 @@ https://expat-api.herokuapp.com
 <br/>
 <br/>
 
+## Fun Fact
+
+Mosquitos like to stick their mouth inside of ant's mouth, rub the ant's head to make them vomit, then ingest the ant's regurgitated honeydew for nutrition:
+https://onlinelibrary.wiley.com/doi/full/10.1111/eea.12852
+
+<br/>
+<br/>
+
 ## Coming Soon
 
 #### Repo highlights:
