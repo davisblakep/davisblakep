@@ -68,4 +68,4 @@ Attempting my own deployed link
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=davisblakep&theme=cobalt&repo=backend-auth-practice)](https://github.com/davisblakep/backend-auth-practice)
 
-`More coming soon`
+`More coming soon. Repo highlights will include new React.JS boilerplates w/ Redux, Private Routing using JSON Web Tokens, REDUX and included middleware, Material-UI components, authentication login and registration forms, and a sample Parallax CSS config.`
