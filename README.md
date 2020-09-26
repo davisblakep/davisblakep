@@ -94,6 +94,10 @@ https://archiveprogram.github.com
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=davisblakep&theme=cobalt&repo=backend-auth-practice)](https://github.com/davisblakep/backend-auth-practice)
 
+*Stats UI courtesy of Anurag Hazra*
+
+https://github.com/anuraghazra/github-readme-stats
+
 <br/>
 <br/>
 
