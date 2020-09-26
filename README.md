@@ -57,8 +57,10 @@ Attempting my own deployed link
 ![Blakes's github stats](https://vercel.com/davisblakep/readme-stats/mpbdiwl8n/api?username=davisblakep&count_private=true&show_icons=true&include_all_commits&theme=cobalt)
 -->
 
+## Github
 
-### Github Highlights:
+
+### Highlights:
 
 *Arctic Code Vault Contributor*
 
@@ -72,7 +74,7 @@ https://archiveprogram.github.com
 
 
 
-### Github Stats:
+### Stats:
 
 ![Blake's github stats](https://github-readme-stats.vercel.app/api?username=davisblakep&count_private=true&show_icons=true&include_all_commits&theme=cobalt)
 
