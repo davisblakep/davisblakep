@@ -101,7 +101,7 @@ https://github.com/anuraghazra/github-readme-stats
 <br/>
 <br/>
 
-## Public notion.so Docs
+## Public Notion.so Docs
 
 ReactJS Frontend Dependencies:
 https://www.notion.so/ReactJS-Dependencies-85a499cd99e4426cafa31b8583b19a82
