@@ -63,7 +63,11 @@ Attempting my own deployed link
 
 ### Github Stats:
 
-*Arctic Code Vault Contributor*(https://archiveprogram.github.com)
+*Arctic Code Vault Contributor*
+
+#### Code involved in this program is buried 250 meters deep in the Arctic Circle on film that is designed to exist for at least 1,000 years.
+
+https://archiveprogram.github.com
 
 ![Blake's github stats](https://github-readme-stats.vercel.app/api?username=davisblakep&count_private=true&show_icons=true&include_all_commits&theme=cobalt)
 
