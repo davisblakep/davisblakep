@@ -86,6 +86,14 @@ https://www.notion.so/ReactJS-Dependencies-85a499cd99e4426cafa31b8583b19a82
 NodeJS Backend Dependcencies:
 https://www.notion.so/Backend-Dependencies-38f9fd9ca0484ca98052c43714c45f08
 
+axiosWithAuth:
+https://www.notion.so/axiosWithAuth-js-4ef55dff65144bbd916e2adff9203e3a
+
+PrivateRoute.js:
+https://www.notion.so/PrivateRoute-js-063f197fd49c45b48543a09a8645e30d
+
+Parallax CSS:
+https://www.notion.so/Parallax-CSS-525d7906b8094b74ac68e1ed1247576f
 
 
 <br/>
