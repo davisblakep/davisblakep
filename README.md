@@ -54,7 +54,7 @@ Attempting my own deployed link
 <br/>
 
 
-### Github Stats
+### Github Stats:
 
 ![Blake's github stats](https://github-readme-stats.vercel.app/api?username=davisblakep&count_private=true&show_icons=true&include_all_commits&theme=cobalt)
 
@@ -64,6 +64,8 @@ Attempting my own deployed link
 <br/>
 <br/>
 
-### Repo Highlights
+### Repo Highlights:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=davisblakep&theme=cobalt&repo=backend-auth-practice)](https://github.com/davisblakep/backend-auth-practice)
+
+`More coming soon`
