@@ -24,7 +24,7 @@ https://readme-stats-lemon.vercel.app/
 
 My name is Blake, and I am a full stack web developer. I enjoy finding new and creative ways to solve problems. I also enjoy learning new technologies and integrating them into current solutions. As a hobby, I enjoy making music with Ableton Live and working with various instruments, midi controllers, and audio interfaces.
 
-My LinkedIn Profile:
+Contact Me Via LinkedIn:
 https://www.linkedin.com/in/davisblakep/
 
 <br/>
