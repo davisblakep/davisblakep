@@ -22,6 +22,11 @@ https://readme-stats-lemon.vercel.app/
 -->
 ## Full Stack Web Developer
 
+### My name is Blake, and I am a full stack web developer. I enjoy finding new and creative ways to solve problems. I also enjoy learning new technologies and integrating them into current solutions. As a hobby, I enjoy making music with Ableton Live and working with various instruments, midi controllers, and audio interfaces.
+
+My LinkedIn Profile:
+https://www.linkedin.com/in/davisblakep/
+
 <br/>
 
 <!-- Larger picture
@@ -92,7 +97,14 @@ https://archiveprogram.github.com
 
 ### Repo Highlights:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=davisblakep&theme=cobalt&repo=backend-auth-practice)](https://github.com/davisblakep/backend-auth-practice)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=davisblakep&theme=cobalt&repo=Auth-Friends)](https://github.com/davisblakep/Auth-Friends)
+First time implementing authentication into a project.
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=davisblakep&theme=cobalt&repo=essentialism)](https://github.com/davisblakep/essentialism)
+The front-end portion of a team project that helps provide users a place to reduce clutter and get more out of life.
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=davisblakep&theme=cobalt&repo=front-end)](https://github.com/davisblakep/front-end)
+The front-end portion of a team project that helps provide users a place to fund virtual reality projects.
 
 *Stats & Pinned Repos UI courtesy of Anurag Hazra*
 
