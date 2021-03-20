@@ -98,12 +98,15 @@ https://archiveprogram.github.com
 ### Repo Highlights:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=davisblakep&theme=cobalt&repo=Auth-Friends)](https://github.com/davisblakep/Auth-Friends)
+
 First time implementing authentication into a project.
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=davisblakep&theme=cobalt&repo=essentialism)](https://github.com/davisblakep/essentialism)
+
 The front-end portion of a team project that helps provide users a place to reduce clutter and get more out of life.
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=davisblakep&theme=cobalt&repo=front-end)](https://github.com/davisblakep/front-end)
+
 The front-end portion of a team project that helps provide users a place to fund virtual reality projects.
 
 *Stats & Pinned Repos UI courtesy of Anurag Hazra*
