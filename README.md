@@ -185,7 +185,7 @@ New Backend Node.JS, ExpressJS, Knex, PostgreSQL boilerplate w/ Morgan Express E
 
 #### Github Readme.md:
 
-Deployment of stats to reduce endpoint calls, additional statistics, *pending* Youtube Playlist, summary & introduction, additional markdown formatting, more cool random information.
+Deployment of stats to reduce endpoint calls, additional statistics, *pending* Youtube Playlist, additional markdown formatting, more cool random information.
 
 
 #### Portfolio:
